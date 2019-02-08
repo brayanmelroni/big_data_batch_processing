@@ -1,4 +1,4 @@
-# Bigdata Batch Processing Using Apache Spark
+# Big Data Batch Processing Using Apache Spark
 
 This repository contains Jupyter notebooks related to following batch processing work.
 
